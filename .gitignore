@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+#My folders and files
+/Char_codes/Char_codes.vcxproj
+/Char_codes/Char_codes.vcxproj.filters
+/Char_codes/Char_codes.cpp
+/square/square.vcxproj
+/square/square.vcxproj.filters
+/square/square.cpp
+/vector_examples/vector_examples.vcxproj
+/vector_examples/vector_examples.vcxproj.filters
+/vector_examples/vector_examples.cpp
